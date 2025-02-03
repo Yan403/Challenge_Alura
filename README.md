@@ -5,7 +5,7 @@
 * [Badges](#badges)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
@@ -27,5 +27,11 @@
 ![img_2_proj](https://github.com/user-attachments/assets/1c01ae4b-f92a-4c22-9d18-a0272e54c435)
 
 ![img_3_proj](https://github.com/user-attachments/assets/78b871e5-33dd-4363-becf-cc1819f07130)
+
+<h1 align="center"> Status do Projeto </h1>
+  :heavy_check_mark: O projeto se encontra finalizado com todas as devidas ferramentas desenvolvidas. :heavy_check_mark:
+
+<h1 align="center"> Funcionalidades </h1>
+  
 
 
