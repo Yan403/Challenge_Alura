@@ -21,6 +21,7 @@
 
 <h1 align="center"> Descrição do Projeto </h1>
   Esse projeto é um desafio proposto pela Escola Alura com o intuito de treinar lógica de programação.
+  
   O objetivo do projeto é ser um jogo para gerar aleatoriamente um amigo secreto de uma lista de amigos.
   
 ![img_2_proj](https://github.com/user-attachments/assets/1c01ae4b-f92a-4c22-9d18-a0272e54c435)
