@@ -1,7 +1,7 @@
 # Índice 
 
 * [Índice](#índice)
-* [Título e Imagem de capa](#<h1 align="center"> Título e Imagem de capa </h1>)
+* [Título e Imagem de capa](#Título-e-Imagem de capa)
 * [Badges](#badges)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
