@@ -14,7 +14,7 @@
 ![img_3_proj](https://github.com/user-attachments/assets/78b871e5-33dd-4363-becf-cc1819f07130)
 
 <h1 align="center"> Status do Projeto </h1>
-  :heavy_check_mark: O projeto se encontra finalizado com todas as devidas ferramentas desenvolvidas. :heavy_check_mark:
+<h4 align="center"> :heavy_check_mark: O projeto se encontra finalizado com todas as devidas ferramentas desenvolvidas. :heavy_check_mark: h4>
 
 <h1 align="center"> Funcionalidades </h1>
   
