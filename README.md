@@ -38,17 +38,9 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Layout ou Deploy da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
 ## Pré-requisitos
 
-:warning: [Node](https://nodejs.org/en/download/)
+:warning: [Javascript](https://javascript.org/en/download/)
 
 ...
 
@@ -80,22 +72,6 @@ Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso d
 
 Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
 
-## JSON :floppy_disk:
-
-### Usuários: 
-
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
-
-... 
-
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
-
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
@@ -104,20 +80,6 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 ...
 
 Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
-
-## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
 
 ## Desenvolvedores/Contribuintes :octocat:
 
@@ -128,6 +90,6 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
-The [MIT License]() (MIT)
+Licença padrão do Github
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2025 - Jogo do Amigo Secreto
