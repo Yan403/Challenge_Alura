@@ -1,8 +1,8 @@
 <h1>JOGO DO AMIGO SECRETO</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=blue&style=for-the-badge&logo=REACT"/>
-  <img src="http://img.shields.io/static/v1?label=HTML&message=language&color=red&style=for-the-badge&logo=ruby"/>
+  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=blue&style=for-the-badge&logo=javascript"/>
+  <img src="http://img.shields.io/static/v1?label=HTML&message=language&color=blue&style=for-the-badge&logo=html"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
