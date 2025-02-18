@@ -27,17 +27,15 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Funcionalidade 1
+Adicionar novo nome para lista
 
 :heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+Sortear nome para fornecer o amigo secreto
 
 ## Pré-requisitos
 
-:warning: [IDE](https://code.visualstudio.com)
+:warning: [IDE VS CODE] (https://code.visualstudio.com)
 
 :warning: [Javascript] - Pode ser utilizado dentro do VS CODE
 
