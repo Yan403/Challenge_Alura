@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=blue&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=HTML&message=language&color=blue&style=for-the-badge&logo=html"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with-VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
