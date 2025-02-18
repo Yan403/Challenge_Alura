@@ -28,9 +28,11 @@
 ## Funcionalidades
 
 :heavy_check_mark: Funcionalidade 1
+
 Adicionar novo nome para lista
 
 :heavy_check_mark: Funcionalidade 2  
+
 Sortear nome para fornecer o amigo secreto
 
 ## Pré-requisitos
