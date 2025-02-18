@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=blue&style=for-the-badge&logo=javascript"/>
   <img src="http://img.shields.io/static/v1?label=HTML&message=language&color=blue&style=for-the-badge&logo=html"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=VS CODE&message=IDE&color=WHITE&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=VS CODE&message=IDE&color=white&style=for-the-badge"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
