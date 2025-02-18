@@ -55,7 +55,7 @@ Sorteia nome para fornecer o amigo secreto
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-| [<img src="https://postimg.cc/dZtfhD9q" width=115><br><sub>Yan Borges</sub>](https://github.com/Yan403) |
+| [<sub>Yan Borges</sub>](https://github.com/Yan403) |
 | :---: |
 
 ## Licença 
