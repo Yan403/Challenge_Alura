@@ -53,7 +53,7 @@
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-| [<img src="C:\Users\yan_b\Downloads\perfil" width=115><br><sub>Yan Borges</sub>](https://github.com/Diana-ops) |
+| [<img src="C:\Users\yan_b\Downloads\perfil" width=115><br><sub>Yan Borges</sub>](https://github.com/Yan403) |
 | :---: |
 
 ## Licença 
