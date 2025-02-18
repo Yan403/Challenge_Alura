@@ -22,6 +22,7 @@
 
 <p align="justify">
   Projeto desenvolvido como parte de um desafio proposto pela escola Alura.
+  
   Visa construir um gerador aleatório de nomes para sortear um amigo secreto.
 </p>
 
@@ -29,11 +30,11 @@
 
 :heavy_check_mark: Funcionalidade 1
 
-Adicionar novo nome para lista
+Adiciona novo nome para lista
 
 :heavy_check_mark: Funcionalidade 2  
 
-Sortear nome para fornecer o amigo secreto
+Sorteia nome para fornecer o amigo secreto
 
 ## Pré-requisitos
 
